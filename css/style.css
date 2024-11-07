@@ -458,6 +458,9 @@ padding-bottom: 5%;
 
 
 }
+#tenth .tenth-inner .tenth-cards .services-card{
+  width: 10px;
+}
 #tenth .tenth-inner .tenth-cards .tenth-card p{
   padding-top: 5%;
   color: red;
